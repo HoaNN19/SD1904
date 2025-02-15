@@ -12,7 +12,7 @@ import java.util.List;
  */
 public class List_b5 {
     //List la bo ArrayList nen no co toan bo tinh chat cuar arraylist
-     List lstKhongDinhKieu = new List();
+    // List lstKhongDinhKieu = new List();
      //THAY THE CHU ARRAYlIST THANH LIST LA XONG
      //LIST CO THE CHUA O DANG DOI TUONG
 }
